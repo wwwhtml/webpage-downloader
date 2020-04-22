@@ -2,7 +2,7 @@
 # This script is for educational purposes only."
 # Even though it works when run against the NYTimes, WashingtonPost, and other paying websites, it is illegal to do that."
 # Author: github.com/wwwhtml
-# Updated: April 212, 2020
+# Updated: April 21, 2020
 #
 #
 clear
