@@ -7,4 +7,6 @@ I have noticed that webpages from the WashingtonPost come down without extension
 
 You can create your own shell script by copy and pasting the code from here (https://github.com/wwwhtml/webpage-downloader/blob/master/webpage-downloader.sh).
 
-Questions? Good! You are thinking. ;)
+<img align="center" src="images/webpage-downloader_700pxls.png">
+
+Questions? Good! ;)
