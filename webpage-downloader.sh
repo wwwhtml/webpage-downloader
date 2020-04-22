@@ -1,6 +1,4 @@
 #!/bin/bash
-# This script is for educational purposes only."
-# Even though it works when run against the NYTimes, WashingtonPost, and other paying websites, it is illegal to do that."
 # Author: github.com/wwwhtml
 # Updated: April 21, 2020
 #
@@ -18,7 +16,7 @@ do
 	echo ""
 	echo "DISCLAIMER: For educational purposes only."
 	echo "Even though this script works when ran against the NYTimes," 
-	echo "WashingtonPost, and other paying websites, remember, it is illegal."
+	echo "LATimes, WashingtonPost, and other paying websites, it is illegal."
 	echo ""
 	echo "Usage:"
 	echo "1. Input the URL to download, then press ENTER." 
